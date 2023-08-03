@@ -2,7 +2,7 @@ message = "Welcome to AI Cable"
 print(message)
 message = "Save money on cable length"
 print(message)
-name = input("Please tell us your company name: ")
+name = input("Tell us your company name: ")
 print(f"\nWelcome, {name}!")
 feet = float(input("How much cable would you like to purchase?: "))
 if feet>500:
